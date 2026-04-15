@@ -19,9 +19,9 @@
 
  ## Markdown
 ### 🚀Live Demo
-    [CLick here to view the Live Demo](https://voice-powered.netlify.app/)
+   [Live Demo Link](https://voice-powered.netlify.app/)
 
  ## ⚙️Installation
-     https://github.com/Arya068/Voice-powered.git
+   [My GitHub Profile](https://github.com/Arya068/Voice-powered.git)
        
 
