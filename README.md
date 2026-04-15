@@ -17,10 +17,9 @@
     - ⚡ Powered by Vite
     - 🌐 Hosted on Netlify
 
- ## 🚀Live Demo
-    https://your-netlify-url.netlify.app
-
- ## 📸Screenshot 
+ ## Markdown
+### 🚀Live Demo
+    [CLick here to view the Live Demo](https://voice-powered.netlify.app/)
 
  ## ⚙️Installation
      https://github.com/Arya068/Voice-powered.git
